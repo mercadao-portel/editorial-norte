@@ -1,8 +1,0 @@
-
-title: "Editorial Norte"
-email: "seu-contato@exemplo.com"
-description: "Portal de notícias e matérias do Editorial Norte"
-baseurl: "" 
-url: "https://seu-usuario.github.io/editorial-norte"
-theme: minima
-paginate: 5
