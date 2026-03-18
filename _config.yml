@@ -1,1 +1,6 @@
 title: Editorial Norte
+email: seu-email@exemplo.com
+description: Site de notícias e matérias
+baseurl: "" # caso o site seja raiz
+url: "https://seu-usuario.github.io"
+theme: minima
