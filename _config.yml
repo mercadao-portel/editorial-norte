@@ -1,0 +1,15 @@
+# Configuração mínima do Jekyll para GitHub Pages
+title: Editorial Marajó
+email: seu-email@exemplo.com
+description: "Site de notícias e matérias do Editorial Marajó"
+baseurl: "" # deixe vazio
+url: "https://mercado-portal.github.io" # seu domínio GitHub Pages
+theme: minima
+
+# Exibir posts completos no feed
+show_excerpts: true
+
+# Configuração de build
+markdown: kramdown
+plugins:
+  - jekyll-feed
