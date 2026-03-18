@@ -10,5 +10,4 @@ O JUIZ QUE NÃO PODE JULGAR, MAS VAI DECIDIR A ELEIÇÃO: TOFFOLI AFASTADO DO BA
 Envolvido em escândalo que liga sua família ao banqueiro Daniel Vorcaro, o ministro Dias Toffoli foi forçado a deixar a relatoria do caso Banco Master — mas, pela composição do TSE, estará sentado no tribunal que julgará.
 Por Redação Editorial Norte
 
-
-![Imagem da Notícia](https://[link-da-imagem.com](https://s2-oglobo.glbimg.com/nWOSLQQ2bU3Sxp9MxlisxFLp8tU=/0x0:2000x1194/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/p/t/2DUFDaRdCzC7xA5feyIQ/arte-2026-02-13t225547.378.png)/imagem.jpg)
+https://s2-g1.glbimg.com/BCvYqdqXEYMQn08kVRhtuVC5cto=/0x116:999x702/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/z/o/Z6EcbjRMqgFcCcTJnGMw/toffoli-e-carmen.jpg
