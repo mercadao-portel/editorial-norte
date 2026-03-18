@@ -4,7 +4,7 @@ title: "Minha primeira matéria"
 date: 2026-03-17
 ---
 
-Esta é a primeira matéria publicada no Editorial Marajó.  
+Esta é a primeira matéria publicada no Editorial Norte.  
 Você pode editar este arquivo para colocar o conteúdo que desejar.
 
 Exemplo de conteúdo:
