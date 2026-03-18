@@ -1,2 +1,13 @@
+---
+layout: default
+title: Editorial Norte
+---
+
 # Editorial Norte
-Bem-vindo ao site.
+Bem-vindo ao nosso portal de notícias!
+
+## Últimas Matérias
+{% for post in site.posts %}
+- {{ post.date | date: "%d/%m/%Y" }}: [{{ post.title }}]({{ post.url }})
+  {{ post.excerpt }}
+{% endfor %}
