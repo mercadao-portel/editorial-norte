@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "Editorial Marajó"
+title: "Editorial Norte"
 ---
 
-# Bem-vindo ao Editorial Marajó!
+# Bem-vindo ao Editorial Norte!
 
 Aqui você encontra nossas matérias publicadas diariamente.  
 
