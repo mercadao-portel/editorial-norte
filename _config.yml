@@ -1,7 +1,7 @@
 # Configuração mínima do Jekyll para GitHub Pages
-title: Editorial Marajó
-email: seu-email@exemplo.com
-description: "Site de notícias e matérias do Editorial Marajó"
+title: Editorial Norte
+email: seu-contatoindesbrasil@gmail.com
+description: "Site de notícias e matérias do Editorial Norte"
 baseurl: "" # deixe vazio
 url: "https://mercado-portal.github.io" # seu domínio GitHub Pages
 theme: minima
