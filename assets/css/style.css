@@ -1,0 +1,14 @@
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+header { background: #007bff; color: white; padding: 15px; display: flex; justify-content: space-between; align-items: center; }
+header h1 { font-size: 2rem; margin: 0; }
+header nav a { color: white; margin-left: 15px; text-decoration: none; }
+main { padding: 20px; max-width: 900px; margin: auto; }
+footer { text-align: center; padding: 20px; background: #f0f0f0; }
+.post { margin-bottom: 30px; }
+.post h1 { font-size: 1.8rem; margin-bottom: 5px; }
+.post img { max-width: 100%; height: auto; }
+@media (max-width: 768px) {
+  header h1 { font-size: 1.5rem; }
+  .post h1 { font-size: 1.4rem; }
+}
