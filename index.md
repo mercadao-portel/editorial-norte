@@ -1,12 +1,30 @@
-<h1 class="display-4 fw-bold">Editorial Norte</h1>
-<p class="lead">Aqui você encontra nossas matérias publicadas diariamente.</p>
+---
+layout: default
+title: Editorial Norte
+---
 
-<h2>Últimas Matérias</h2>
-<ul class="list-unstyled">
-  <li>
-    <strong>Mar 17, 2026:</strong> <a href="{{ site.baseurl }}/_posts/2026-03-17-minha-primeira-materia.html">Matéria: Minha primeira matéria</a>
-    <p class="text-muted">Esta é a primeira matéria publicada no Editorial Norte. Você pode ler o conteúdo completo clicando no título.</p>
-  </li>
+<div class="container">
+
+# Editorial Norte
+Bem-vindo ao nosso portal de notícias!
+
+Aqui você encontra nossas matérias publicadas diariamente.  
+
+## Últimas Matérias
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>:
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {% if post.excerpt %}
+        <p>{{ post.excerpt }}</p>
+      {% endif %}
+      {% if post.image %}
+        <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image"/>
+      {% endif %}
+    </li>
+  {% endfor %}
 </ul>
 
-<p>Assine nosso <a href="{{ site.baseurl }}/feed.xml">RSS</a> para receber atualizações</p>
+</div>
