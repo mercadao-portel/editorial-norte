@@ -1,6 +1,9 @@
 title: Editorial Norte
-email: seu-contato@exemplo.com
-description: "Site de notícias e matérias do Editorial Norte"
-baseurl: "" # deixe vazio se estiver na raiz
+description: Notícias e matérias atualizadas diariamente
+baseurl: "" 
 url: "https://mercado-portal.github.io/editorial-norte"
 theme: minima
+
+# Para exibir RSS
+plugins:
+  - jekyll-feed
