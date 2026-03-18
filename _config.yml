@@ -1,9 +1,0 @@
-title: Editorial Norte
-description: Notícias e matérias atualizadas diariamente
-baseurl: "" 
-url: "https://mercado-portal.github.io/editorial-norte"
-theme: minima
-
-# Para exibir RSS
-plugins:
-  - jekyll-feed
